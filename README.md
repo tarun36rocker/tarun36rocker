@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on some interesting projects with companies !
 
-- 💬 Ask me about OpenCV, ML , Data Science.
+- 💬 Ask me about OpenCV, Machine Learning , Data Science.
 
 - 📫 How to reach me: Click on the above social media pop-ups or contact me directly on this mail : tarun36rocker@gmail.com
 
