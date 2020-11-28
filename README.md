@@ -1,11 +1,14 @@
 # Hi there 👋
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
+[![alt text][7.1]][7]
 
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-32x32.png
+[6.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-32x32.png
+[7.1]:https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png
 [2]: https://www.facebook.com/profile.php?id=100009645905136
 [6]: https://github.com/tarun36rocker
+[7]:https://www.linkedin.com/in/tarunkrishnan2000/
 My name is Tarun Krishnan. My fields of interests are Computer Vision , Deep Learning , Machine Learning and Data Science😄 
 
 <!--
