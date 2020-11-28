@@ -16,10 +16,10 @@ My name is Tarun Krishnan. My fields of interests are Computer Vision , Deep Lea
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as an intern in [DUIT](https://www.linkedin.com/company/duitcards/) and am looking
+- 🔭 I’m currently working as an intern at [DUIT](https://www.linkedin.com/company/duitcards/) and am looking
       to gain more experience in the fields of Computer Vision and Deep Learning
 
-- 👯 I’m looking to collaborate on some interesting projects with companies !
+- 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
 
 - 💬 Ask me about OpenCV, Neural Networks or even different Machine Learning models !!
 
