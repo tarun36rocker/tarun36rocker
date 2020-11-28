@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Click on the above social media pop-ups or contact me directly on this mail : tarun36rocker@gmail.com
 
-- 😄 Pronouns: No specific pronoun to describe me , if there was one i would say unique 😄
+- 😄 A Word to Describe Me : There is NO specific word to describe me to be honest , if there was one i would say Unique 😄
 
 - ⚡ Fun fact: I have long fingers
 
