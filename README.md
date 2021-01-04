@@ -9,7 +9,7 @@
 [2]: https://www.facebook.com/profile.php?id=100009645905136
 [6]: https://github.com/tarun36rocker
 [7]:https://www.linkedin.com/in/tarunkrishnan2000/
-<a href="https://drive.google.com/file/d/1j4zBvQ-n1KkfHmhPPn9rnbtVNZ2fqiJ5/view?usp=sharing" download>Click to View My Resume ! </a>
+<a href="https://drive.google.com/file/d/1G4lHU2BiysFpr84aTc3y7zN44wS4jQ3E/view?usp=sharing" download>Click to View My Resume ! </a>
 
 My name is Tarun Krishnan. My fields of interests are Computer Vision , Deep Learning , Machine Learning and Data Science😄 
 
