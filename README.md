@@ -11,6 +11,7 @@
 [7]:https://www.linkedin.com/in/tarunkrishnan2000/
 <a href="https://drive.google.com/file/d/1h-6EtK4iaNZYXfaE2Wk-sWBEM0ijHWrO/view?usp=sharing" download>Click here to View My Resume !      </a>
 <a href="https://github.com/tarun36rocker/Personal_Projects/tree/main">Click here to View a list of My Personal Projects! </a>
+<a href="https://www.credential.net/c8e136a0-9a46-49fd-a206-10df7607ca31">Tensorflow Developer Certified!</a>
 
 My name is Tarun Krishnan. My fields of interests are Computer Vision , Deep Learning , Machine Learning and Data Science😄 
 
