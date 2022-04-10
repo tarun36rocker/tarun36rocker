@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about OpenCV, Neural Networks or even different Machine Learning models !!
 
-- 📫 How to reach me: Click on the above social media pop-ups or contact me directly on this mail : tarun36rocker@gmail.com
+- 📫 How to reach me: Click on the above social media pop-ups or contact me directly on this mail : tarun2000krishnan@gmail.com
 
 - 😄 A Word to Describe Me ? : There is NO specific word to describe me to be honest , if there was one i would say Unique 😄
 
