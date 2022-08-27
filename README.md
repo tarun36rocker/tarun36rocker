@@ -9,7 +9,7 @@
 [2]: https://www.facebook.com/profile.php?id=100009645905136
 [6]: https://github.com/tarun36rocker
 [7]:https://www.linkedin.com/in/tarunkrishnan2000/
-<a href="https://drive.google.com/file/d/1_wJaAh-EJhaYnnEuQBGEywkaF2ewE1PK/view?usp=sharing" download>Click here to View My Resume !      </a>
+<a href="https://drive.google.com/file/d/10laESrNi4aMA8Lqm-WFVR_mBQc3ZqpQH/view?usp=sharing" download>Click here to View My Resume !      </a>
 <a href="https://github.com/tarun36rocker/Personal_Projects/tree/main">Click here to View a list of My Personal Projects and Accomplishments! </a>
 <a href="https://www.credential.net/c8e136a0-9a46-49fd-a206-10df7607ca31">Tensorflow Developer Certified!</a>
 
