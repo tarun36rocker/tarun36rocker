@@ -1,17 +1,12 @@
 # Hi there 👋
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
 [![alt text][7.1]][7]
 
-[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-32x32.png
-[6.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-32x32.png
-[7.1]:https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png
-[2]: https://www.facebook.com/profile.php?id=100009645905136
-[6]: https://github.com/tarun36rocker
+[7.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png
+
 [7]:https://www.linkedin.com/in/tarunkrishnan2000/
-<a href="https://drive.google.com/file/d/1ROmattcq28EUBm2gslyEVZora_ZvQr_3/view?usp=sharing" download>Click here to View My Resume !      </a>
-<a href="https://github.com/tarun36rocker/Personal_Projects/tree/main">Click here to View a list of My Personal Projects and Accomplishments! </a>
-<a href="https://www.credential.net/c8e136a0-9a46-49fd-a206-10df7607ca31">Tensorflow Developer Certified!</a>
+<a href="https://drive.google.com/file/d/1ROmattcq28EUBm2gslyEVZora_ZvQr_3/view?usp=sharing" download>Click here to View My Resume ! <br>     </a>
+<a href="https://github.com/tarun36rocker/Personal_Projects/tree/main">Click here to View a list of My Personal Projects and Accomplishments!  <br> </a>
+<a href="https://www.credential.net/c8e136a0-9a46-49fd-a206-10df7607ca31">Tensorflow Developer Certified! <br> </a>
 
 My name is Tarun Krishnan. My fields of interests are Computer Vision , Deep Learning , Machine Learning and Data Science😄 
 
