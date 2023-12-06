@@ -1,29 +1,21 @@
 # Hi there 👋
-[![alt text][7.1]][7]
 
-[7.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png
 
-[7]:https://www.linkedin.com/in/tarunkrishnan2000/
-<a href="https://drive.google.com/file/d/1ROmattcq28EUBm2gslyEVZora_ZvQr_3/view?usp=sharing" download>Click here to View My Resume ! <br>     </a>
-<a href="https://github.com/tarun36rocker/Personal_Projects/tree/main">Click here to View a list of My Personal Projects and Accomplishments!  <br> </a>
-<a href="https://www.credential.net/c8e136a0-9a46-49fd-a206-10df7607ca31">Tensorflow Developer Certified! <br> </a>
-
-My name is Tarun Krishnan. My fields of interests are Computer Vision , Deep Learning , Machine Learning and Data Science😄 
+My name is Tarun Krishnan, and I am deeply passionate about a range of cutting-edge fields in technology. My primary areas of interest include Computer Vision, Deep Learning, Machine Learning, and Data Science, with a particular focus on the exciting developments in Generative AI (GenAI). These domains represent the forefront of innovation in today's tech landscape, and I am committed to exploring and contributing to their advancement😄 
 
 <!--
 **tarun36rocker/tarun36rocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am looking to gain more experience in the fields of Computer Vision and Deep Learning
 
-- 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
+- 👯 I’m looking to collaborate on some interesting projects with companies or individuals!
 
-- 💬 Ask me about OpenCV, Neural Networks or even different Machine Learning models !!
+- 💬 Ask me about GenAI, Neural Networks or even different Machine Learning models !!
 
-- 📫 How to reach me: Click on the above social media pop-ups or contact me directly on this mail : tarun2000krishnan@gmail.com
+- 📫 How to reach me: tarun2000krishnan@gmail.com
 
-- 😄 A Word to Describe Me ? : There is NO specific word to describe me to be honest , if there was one i would say Unique 😄
+- 😄 A Word to Describe Me? : There is NO specific word to describe me, to be honest, if there was one I would say Unique 😄
 
 - ⚡ Fun fact: I have long fingers
 
